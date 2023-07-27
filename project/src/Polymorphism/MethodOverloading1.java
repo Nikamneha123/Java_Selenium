@@ -14,6 +14,7 @@ public class MethodOverloading1 {
 	}
 	public void Demo1() {
 		System.out.println("no argument method");
+		System.out.println("argument");
 	}
 	public void Demo1(int i) {
 		System.out.println("one i/p argument method");
