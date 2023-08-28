@@ -20,7 +20,17 @@ public class Array9 {
 		}
 		
 		
-		
+	/*	for(int i=0; i<=2; i++)
+		{
+		//inner for loop for cols
+		//3<=2 3
+		for(int j=0; j<=2; j++)
+		{ // 1 2
+		System.out.print(number[i][j]+" ");
+		}
+		System.out.println();
+		}
+		*/
 		
 	}
 

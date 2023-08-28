@@ -13,7 +13,7 @@ public class Array2 {
 		C1[4]='D';
 		//C1[5]='E';//ArrayIndexOutOfBoundException
 		System.out.println(C1.length);
-		for(int i=0;i<C1.length;i++) {
+		for(int i=0;i<=C1.length-1;i++) {
 			System.out.println(" "+C1[i]);
 		}
 		System.out.println();

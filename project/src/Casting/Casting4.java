@@ -21,6 +21,7 @@ public static void main(String[] args) {
 	C3.Demo1();
 	C3.Demo2();
 	
+	
 	//DOWN CASTING
 	Casting4 C41= (Casting4) new Casting3();    //classcastexception
 	C41.Demo1();
